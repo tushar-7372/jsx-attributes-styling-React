@@ -1,0 +1,8 @@
+/* we can target html elements (h1,div),class,id to add styling */
+.heading {
+  color: red;
+}
+.bat {
+  height: 500px;
+  width: 500px;
+}
